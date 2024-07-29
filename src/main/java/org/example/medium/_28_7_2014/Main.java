@@ -1,4 +1,4 @@
-package org.example.medium._28_17_2014;
+package org.example.medium._28_7_2014;
 
 public class Main {
     public static void main(String[] args) {

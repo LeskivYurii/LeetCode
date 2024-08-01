@@ -1,4 +1,4 @@
-package org.example.easy._29_7_2014;
+package org.example.easy._29_7_2024;
 
 import java.util.Arrays;
 

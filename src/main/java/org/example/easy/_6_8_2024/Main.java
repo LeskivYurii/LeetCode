@@ -1,4 +1,4 @@
-package org.example.easy._5_8_2024;
+package org.example.easy._6_8_2024;
 
 public class Main {
     public static void main(String[] args) {

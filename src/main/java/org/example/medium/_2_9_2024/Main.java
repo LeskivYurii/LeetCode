@@ -1,10 +1,7 @@
 package org.example.medium._2_9_2024;
 
 import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Collection;
 import java.util.List;
-import java.util.function.Function;
 
 public class Main {
     public static void main(String[] args) {
